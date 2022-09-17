@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is describes making a login form page with validation using formik library, although form and validation can be done in React only but we need deal with formhandling, form-values, form submission and form-validation by writing so many functions in React. Hence Formik comes into the picture making form is so easy using formik library.
 
 ## Available Scripts
 
